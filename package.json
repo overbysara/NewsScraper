@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/overbysara/NewsScraper.git"
   },
-  "author": "",
+  "author": "Sara Overby",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/overbysara/NewsScraper/issues"
@@ -22,6 +22,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "mongoose": "^5.5.4",
+    "morgan": "^1.9.1",
     "request": "^2.88.0"
   }
 }
